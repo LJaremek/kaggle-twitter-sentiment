@@ -1,5 +1,13 @@
-# kaggle-twitter-sentiment
+# [kaggle: twitter sentiment classification](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 Analyze how travelers in February 2015 expressed their feelings on Twitter
+<br/><br/>
+Python: 3.9.9
+<br/><br/>
+Requirements:
+ * matplotlib 3.5.1
+ * nltk 3.6.7
+ * pandas 1.4.0
+ * sklearn 1.0.2
 
 <br/><br/>
 
